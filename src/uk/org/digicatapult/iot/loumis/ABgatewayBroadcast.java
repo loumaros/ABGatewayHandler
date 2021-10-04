@@ -19,7 +19,7 @@ import java.util.List;
  * @version v.0.1
  * 
  * @see {@link uk.org.digicatapult.iot.loumis.DeviceMessage}
- *
+ * 
  */
 public class ABgatewayBroadcast {
 
